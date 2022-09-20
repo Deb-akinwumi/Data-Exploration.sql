@@ -1,2 +1,1 @@
-# Data-Exploration.sql
-COVID Portfolio Project - Data Exploration
+Compilation of SQL exploratory data analysis projects and challenges. 

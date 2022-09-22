@@ -1,4 +1,4 @@
-Analysis on Global Super Store Dataset
+Analysis on Global Super Store Dataset from Kaggle
 
 Global Mart is an online supergiant store that has worldwide operations. The store takes orders and delivers across the globe and deals with all the major product categories — consumer, corporate and home office. I explore insights on: 
 

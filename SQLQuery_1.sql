@@ -1,3 +1,9 @@
+/*
+
+Queries used for Tableau Project
+
+/*
+
 --Query 1--- 
 
 SELECT  count (*)

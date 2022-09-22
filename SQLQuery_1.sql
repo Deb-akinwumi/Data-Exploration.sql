@@ -16,6 +16,7 @@ FROM PortfolioProject..[GLOBAL SUPERSTORE.XLS - ORDERS]
 ORDER by 1
 
 --Query 3---
+
 Select [Order_ID], count(*) 
 from PortfolioProject..[GLOBAL SUPERSTORE.XLS - ORDERS]
 Group by [Order_ID] 

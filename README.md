@@ -6,3 +6,6 @@ Global Mart is an online supergiant store that has worldwide operations. The sto
 -Which country has top sales?
 -What is the average delivery time across the counties?
 -Which sub-categories were more profitable?
+
+
+Created interactive Tableau Dashboard to visualize the data.
